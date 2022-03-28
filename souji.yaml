@@ -505,7 +505,7 @@ proxies:
     obfs: plain
     protocol-param: 67249:ojZU44
     obfs-param: e167067249.microsoft.com
-     - {name: 🇸🇬 jopeng🍄新103.157.250.20, server: 183.240.9.28, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 jopeng🍄新103.157.250.20, server: 183.240.9.28, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
   - {name: 🇭🇰 jopeng🍄港103.157.250.19, server: 183.240.9.28, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
   - {name: 🇸🇬 jopeng🍄新103.157.250.21, server: 183.240.9.28, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
   - {name: 🇸🇬 jopeng🍄新103.157.250.22, server: 183.240.9.28, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
@@ -644,52 +644,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇸🇬 jopeng🍄新103.157.250.20
-      - 🇭🇰 jopeng🍄港103.157.250.19
-      - 🇸🇬 jopeng🍄新103.157.250.21
-      - 🇸🇬 jopeng🍄新103.157.250.22
-      - 🇸🇬 jopeng🍄新103.157.250.23
-      - 🇸🇬 jopeng🍄新103.157.250.26
-      - 🇸🇬 jopeng🍄新103.157.250.27
-      - 🇸🇬 jopeng🍄新103.157.250.20 2
-      - 🇭🇰 jopeng🍄港103.157.250.19 2
-      - 🇸🇬 jopeng🍄新103.157.250.21 2
-      - 🇸🇬 jopeng🍄新103.157.250.22 2
-      - 🇸🇬 jopeng🍄新103.157.250.23 2
-      - 🇸🇬 jopeng🍄新103.157.250.26 2
-      - 🇸🇬 jopeng🍄新103.157.250.27 2
-      - 🇸🇬 jopeng🍄新103.157.250.20 3
-      - 🇭🇰 jopeng🍄港103.157.250.19 3
-      - 🇸🇬 jopeng🍄新103.157.250.21 3
-      - 🇸🇬 jopeng🍄新103.157.250.22 3
-      - 🇸🇬 jopeng🍄新103.157.250.23 3
-      - 🇸🇬 jopeng🍄新103.157.250.26 3
-      - 🇸🇬 jopeng🍄新103.157.250.27 3
-      - 🇸🇬 jopeng🍄新103.157.250.20 4
-      - 🇭🇰 jopeng🍄港103.157.250.19 4
-      - 🇸🇬 jopeng🍄新103.157.250.21 4
-      - 🇸🇬 jopeng🍄新103.157.250.22 4
-      - 🇸🇬 jopeng🍄新103.157.250.23 4
-      - 🇸🇬 jopeng🍄新103.157.250.26 4
-      - 🇸🇬 jopeng🍄新103.157.250.27 4
-      - 🇸🇬 jopeng🍄新103.157.251.20
-      - 🇭🇰 jopeng🍄港103.157.251.19
-      - jopeng
-      - jopeng 2
-      - jopeng 3
-      - jopeng 4
-      - jopeng 5
-      - jopeng 6
-      - jopeng 7
-      - jopeng 8
-      - jopeng 9
-  - name: ♻️ 自动选择
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - DIRECT
       - 香港
       - 🇭🇰 jopeng 香港-02
       - 🇭🇰 jopeng 香港-03
@@ -779,50 +733,7 @@ proxy-groups:
       - jopeng 7
       - jopeng 8
       - jopeng 9
-  - name: ♻️ 自动选择
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    proxies:
-      - 🇸🇬 jopeng🍄新103.157.250.20
-      - 🇭🇰 jopeng🍄港103.157.250.19
-      - 🇸🇬 jopeng🍄新103.157.250.21
-      - 🇸🇬 jopeng🍄新103.157.250.22
-      - 🇸🇬 jopeng🍄新103.157.250.23
-      - 🇸🇬 jopeng🍄新103.157.250.26
-      - 🇸🇬 jopeng🍄新103.157.250.27
-      - 🇸🇬 jopeng🍄新103.157.250.20 2
-      - 🇭🇰 jopeng🍄港103.157.250.19 2
-      - 🇸🇬 jopeng🍄新103.157.250.21 2
-      - 🇸🇬 jopeng🍄新103.157.250.22 2
-      - 🇸🇬 jopeng🍄新103.157.250.23 2
-      - 🇸🇬 jopeng🍄新103.157.250.26 2
-      - 🇸🇬 jopeng🍄新103.157.250.27 2
-      - 🇸🇬 jopeng🍄新103.157.250.20 3
-      - 🇭🇰 jopeng🍄港103.157.250.19 3
-      - 🇸🇬 jopeng🍄新103.157.250.21 3
-      - 🇸🇬 jopeng🍄新103.157.250.22 3
-      - 🇸🇬 jopeng🍄新103.157.250.23 3
-      - 🇸🇬 jopeng🍄新103.157.250.26 3
-      - 🇸🇬 jopeng🍄新103.157.250.27 3
-      - 🇸🇬 jopeng🍄新103.157.250.20 4
-      - 🇭🇰 jopeng🍄港103.157.250.19 4
-      - 🇸🇬 jopeng🍄新103.157.250.21 4
-      - 🇸🇬 jopeng🍄新103.157.250.22 4
-      - 🇸🇬 jopeng🍄新103.157.250.23 4
-      - 🇸🇬 jopeng🍄新103.157.250.26 4
-      - 🇸🇬 jopeng🍄新103.157.250.27 4
-      - 🇸🇬 jopeng🍄新103.157.251.20
-      - 🇭🇰 jopeng🍄港103.157.251.19
-      - jopeng
-      - jopeng 2
-      - jopeng 3
-      - jopeng 4
-      - jopeng 5
-      - jopeng 6
-      - jopeng 7
-      - jopeng 8
-      - jopeng 9
+ 
   - name: 🌍 国外媒体
     type: select
     proxies:
