@@ -535,15 +535,6 @@ proxies:
   - {name: 🇸🇬 jopeng🍄新103.157.250.27 4, server: 183.240.9.31, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
   - {name: 🇸🇬 jopeng🍄新103.157.251.20, server: 120.232.251.206, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
   - {name: 🇭🇰 jopeng🍄港103.157.251.19, server: 120.232.251.206, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng, server: 120.232.251.206, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng 2, server: 120.232.251.206, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng 3, server: 120.232.251.206, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng 4, server: 120.232.251.206, port: 29985, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng 5, server: 120.232.251.206, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng 6, server: 120.232.251.206, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng 7, server: 120.232.251.206, port: 29994, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng 8, server: 120.232.251.206, port: 29996, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-  - {name: jopeng 9, server: 120.232.251.206, port: 29998, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -630,15 +621,6 @@ proxy-groups:
       - 🇸🇬 jopeng🍄新103.157.250.27 4
       - 🇸🇬 jopeng🍄新103.157.251.20
       - 🇭🇰 jopeng🍄港103.157.251.19
-      - jopeng
-      - jopeng 2
-      - jopeng 3
-      - jopeng 4
-      - jopeng 5
-      - jopeng 6
-      - jopeng 7
-      - jopeng 8
-      - jopeng 9
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -724,16 +706,6 @@ proxy-groups:
       - 🇸🇬 jopeng🍄新103.157.250.27 4
       - 🇸🇬 jopeng🍄新103.157.251.20
       - 🇭🇰 jopeng🍄港103.157.251.19
-      - jopeng
-      - jopeng 2
-      - jopeng 3
-      - jopeng 4
-      - jopeng 5
-      - jopeng 6
-      - jopeng 7
-      - jopeng 8
-      - jopeng 9
- 
   - name: 🌍 国外媒体
     type: select
     proxies:
