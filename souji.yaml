@@ -35,6 +35,9 @@ proxies:
   - {name: 🇸🇬 jopeng🍄新103.157.250.27 4, server: 183.240.9.31, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
   - {name: 🇸🇬 jopeng🍄新103.157.251.20, server: 120.232.251.206, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
   - {name: 🇭🇰 jopeng🍄港103.157.251.19, server: 120.232.251.206, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇰🇷 @nfeng6韩国-中继-02, server: yy01.nfeng6.pp.ua, port: 4001, type: ssr, cipher: chacha20-ietf, password: jFa4F1, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 65199:xMcKnc, obfs-param: e167065199.microsoft.com}
+  - {name: 🇸🇬 @nfeng6新加坡-中继-09, server: yy01.nfeng6.pp.ua, port: 6708, type: ssr, cipher: chacha20-ietf, password: jFa4F1, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 65199:xMcKnc, obfs-param: e167065199.microsoft.com}
+  - {name: 🇸🇬 @nfeng6新加坡-中继-08, server: yy01.nfeng6.pp.ua, port: 6707, type: ssr, cipher: chacha20-ietf, password: jFa4F1, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 65199:xMcKnc, obfs-param: e167065199.microsoft.com}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -71,6 +74,9 @@ proxy-groups:
       - 🇸🇬 jopeng🍄新103.157.250.27 4
       - 🇸🇬 jopeng🍄新103.157.251.20
       - 🇭🇰 jopeng🍄港103.157.251.19
+      - 🇰🇷 @nfeng6韩国-中继-02
+      - 🇸🇬 @nfeng6新加坡-中继-09
+      - 🇸🇬 @nfeng6新加坡-中继-08
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -106,6 +112,9 @@ proxy-groups:
       - 🇸🇬 jopeng🍄新103.157.250.27 4
       - 🇸🇬 jopeng🍄新103.157.251.20
       - 🇭🇰 jopeng🍄港103.157.251.19
+      - 🇰🇷 @nfeng6韩国-中继-02
+      - 🇸🇬 @nfeng6新加坡-中继-09
+      - 🇸🇬 @nfeng6新加坡-中继-08
   - name: 🌍 国外媒体
     type: select
     proxies:
