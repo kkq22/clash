@@ -14,7 +14,7 @@ proxies:
     tls: true
     skip-cert-verify: true
     _index: 0
-  - {name: 一键连🇭🇰郑州P2, server: P2.centaur.network, port: 29980, type: trojan, username: "442993652168396800", password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+ 
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -22,7 +22,6 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 一键连
-      - 一键连🇭🇰郑州P2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
