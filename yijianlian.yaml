@@ -14,7 +14,45 @@ proxies:
     tls: true
     skip-cert-verify: true
     _index: 0
- 
+  - {name: 🇸🇬 一键连广移>>新103.157.250.20, server: 183.240.9.28, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 一键连广移>>港103.157.250.19, server: 183.240.9.28, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.21, server: 183.240.9.28, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.22, server: 183.240.9.28, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.23, server: 183.240.9.28, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.26, server: 183.240.9.28, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.27, server: 183.240.9.28, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.20 2, server: 183.240.9.29, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 一键连广移>>港103.157.250.19 2, server: 183.240.9.29, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.21 2, server: 183.240.9.29, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.22 2, server: 183.240.9.29, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.23 2, server: 183.240.9.29, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.26 2, server: 183.240.9.29, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.27 2, server: 183.240.9.29, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.20 3, server: 183.240.9.30, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 一键连广移>>港103.157.250.19 3, server: 183.240.9.30, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.21 3, server: 183.240.9.30, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.22 3, server: 183.240.9.30, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.23 3, server: 183.240.9.30, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.26 3, server: 183.240.9.30, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.27 3, server: 183.240.9.30, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.20 4, server: 183.240.9.31, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 一键连广移>>港103.157.250.19 4, server: 183.240.9.31, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.21 4, server: 183.240.9.31, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.22 4, server: 183.240.9.31, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.23 4, server: 183.240.9.31, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.26 4, server: 183.240.9.31, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连广移>>新103.157.250.27 4, server: 183.240.9.31, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 一键连深移>>新103.157.251.20, server: 120.232.251.206, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 一键连深移>>港103.157.251.19, server: 120.232.251.206, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移, server: 120.232.251.206, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移 2, server: 120.232.251.206, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移 3, server: 120.232.251.206, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移 4, server: 120.232.251.206, port: 29985, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移 5, server: 120.232.251.206, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移 6, server: 120.232.251.206, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移 7, server: 120.232.251.206, port: 29994, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移 8, server: 120.232.251.206, port: 29996, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 一键连深移 9, server: 120.232.251.206, port: 29998, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -22,6 +60,45 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 一键连
+      - 🇸🇬 一键连广移>>新103.157.250.20
+      - 🇭🇰 一键连广移>>港103.157.250.19
+      - 🇸🇬 一键连广移>>新103.157.250.21
+      - 🇸🇬 一键连广移>>新103.157.250.22
+      - 🇸🇬 一键连广移>>新103.157.250.23
+      - 🇸🇬 一键连广移>>新103.157.250.26
+      - 🇸🇬 一键连广移>>新103.157.250.27
+      - 🇸🇬 一键连广移>>新103.157.250.20 2
+      - 🇭🇰 一键连广移>>港103.157.250.19 2
+      - 🇸🇬 一键连广移>>新103.157.250.21 2
+      - 🇸🇬 一键连广移>>新103.157.250.22 2
+      - 🇸🇬 一键连广移>>新103.157.250.23 2
+      - 🇸🇬 一键连广移>>新103.157.250.26 2
+      - 🇸🇬 一键连广移>>新103.157.250.27 2
+      - 🇸🇬 一键连广移>>新103.157.250.20 3
+      - 🇭🇰 一键连广移>>港103.157.250.19 3
+      - 🇸🇬 一键连广移>>新103.157.250.21 3
+      - 🇸🇬 一键连广移>>新103.157.250.22 3
+      - 🇸🇬 一键连广移>>新103.157.250.23 3
+      - 🇸🇬 一键连广移>>新103.157.250.26 3
+      - 🇸🇬 一键连广移>>新103.157.250.27 3
+      - 🇸🇬 一键连广移>>新103.157.250.20 4
+      - 🇭🇰 一键连广移>>港103.157.250.19 4
+      - 🇸🇬 一键连广移>>新103.157.250.21 4
+      - 🇸🇬 一键连广移>>新103.157.250.22 4
+      - 🇸🇬 一键连广移>>新103.157.250.23 4
+      - 🇸🇬 一键连广移>>新103.157.250.26 4
+      - 🇸🇬 一键连广移>>新103.157.250.27 4
+      - 🇸🇬 一键连深移>>新103.157.251.20
+      - 🇭🇰 一键连深移>>港103.157.251.19
+      - 一键连深移
+      - 一键连深移 2
+      - 一键连深移 3
+      - 一键连深移 4
+      - 一键连深移 5
+      - 一键连深移 6
+      - 一键连深移 7
+      - 一键连深移 8
+      - 一键连深移 9
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -30,6 +107,45 @@ proxy-groups:
     proxies:
       - DIRECT
       - 一键连
+      - 🇸🇬 一键连广移>>新103.157.250.20
+      - 🇭🇰 一键连广移>>港103.157.250.19
+      - 🇸🇬 一键连广移>>新103.157.250.21
+      - 🇸🇬 一键连广移>>新103.157.250.22
+      - 🇸🇬 一键连广移>>新103.157.250.23
+      - 🇸🇬 一键连广移>>新103.157.250.26
+      - 🇸🇬 一键连广移>>新103.157.250.27
+      - 🇸🇬 一键连广移>>新103.157.250.20 2
+      - 🇭🇰 一键连广移>>港103.157.250.19 2
+      - 🇸🇬 一键连广移>>新103.157.250.21 2
+      - 🇸🇬 一键连广移>>新103.157.250.22 2
+      - 🇸🇬 一键连广移>>新103.157.250.23 2
+      - 🇸🇬 一键连广移>>新103.157.250.26 2
+      - 🇸🇬 一键连广移>>新103.157.250.27 2
+      - 🇸🇬 一键连广移>>新103.157.250.20 3
+      - 🇭🇰 一键连广移>>港103.157.250.19 3
+      - 🇸🇬 一键连广移>>新103.157.250.21 3
+      - 🇸🇬 一键连广移>>新103.157.250.22 3
+      - 🇸🇬 一键连广移>>新103.157.250.23 3
+      - 🇸🇬 一键连广移>>新103.157.250.26 3
+      - 🇸🇬 一键连广移>>新103.157.250.27 3
+      - 🇸🇬 一键连广移>>新103.157.250.20 4
+      - 🇭🇰 一键连广移>>港103.157.250.19 4
+      - 🇸🇬 一键连广移>>新103.157.250.21 4
+      - 🇸🇬 一键连广移>>新103.157.250.22 4
+      - 🇸🇬 一键连广移>>新103.157.250.23 4
+      - 🇸🇬 一键连广移>>新103.157.250.26 4
+      - 🇸🇬 一键连广移>>新103.157.250.27 4
+      - 🇸🇬 一键连深移>>新103.157.251.20
+      - 🇭🇰 一键连深移>>港103.157.251.19
+      - 一键连深移
+      - 一键连深移 2
+      - 一键连深移 3
+      - 一键连深移 4
+      - 一键连深移 5
+      - 一键连深移 6
+      - 一键连深移 7
+      - 一键连深移 8
+      - 一键连深移 9
   - name: 🌍 国外媒体
     type: select
     proxies:
