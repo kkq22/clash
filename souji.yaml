@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-   - {name: '[v1]香港・13_1', server: cm08.paofuvip.xyz, port: 5952, type: ssr, country: '[v1]香港・13_1', password: 'bxsnucrgk6hfish', cipher: 'chacha20-ietf', protocol: 'auth_aes128_sha1', obfs: 'plain', protocol-param: '193061:KOAiCn', obfs-param: '0efd4193061.microsoft.com'}
+  - {name: '[v1]香港・13_1', server: cm08.paofuvip.xyz, port: 5952, type: ssr, country: '[v1]香港・13_1', password: 'bxsnucrgk6hfish', cipher: 'chacha20-ietf', protocol: 'auth_aes128_sha1', obfs: 'plain', protocol-param: '193061:KOAiCn', obfs-param: '0efd4193061.microsoft.com'}
   - {name: 'JP_126', server: 'superjapan.dnsfree.top', port: 12353, type: vmess, uuid: '40ed2e01-e371-4ff0-8026-08676c40e37e', alterId: 0, cipher: auto, country: "JP_126", "skip-cert-verify": true, tls: true, network: 'ws', ws-opts: { path: '/', headers: {host: 'tiebapic.baidu.com'}} }
   - {name: '[v1]香港・16_3', server: cm08.paofuvip.xyz, port: 5955, type: ssr, country: '[v1]香港・16_3', password: 'bxsnucrgk6hfish', cipher: 'chacha20-ietf', protocol: 'auth_aes128_sha1', obfs: 'plain', protocol-param: '193061:KOAiCn', obfs-param: '0efd4193061.microsoft.com'}
   - {name: '[v1]香港・06_4', server: cm07.paofuvip.xyz, port: 5955, type: ssr, country: '[v1]香港・06_4', password: 'bxsnucrgk6hfish', cipher: 'chacha20-ietf', protocol: 'auth_aes128_sha1', obfs: 'plain', protocol-param: '193061:KOAiCn', obfs-param: '0efd4193061.microsoft.com'}
@@ -110,7 +110,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-          - [v1]香港・13_1
+      - [v1]香港・13_1
       - JP_126
       - [v1]香港・16_3
       - [v1]香港・06_4
@@ -215,7 +215,7 @@ proxy-groups:
     interval: 300
     proxies:
       - DIRECT
-          - [v1]香港・13_1
+      - [v1]香港・13_1
       - JP_126
       - [v1]香港・16_3
       - [v1]香港・06_4
